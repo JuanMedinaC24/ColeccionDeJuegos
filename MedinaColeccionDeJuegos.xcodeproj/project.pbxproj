@@ -14,6 +14,7 @@
 		D89183292A150EC500CBDB48 /* MedinaColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D89183272A150EC500CBDB48 /* MedinaColeccionDeJuegos.xcdatamodeld */; };
 		D891832B2A150EC900CBDB48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D891832A2A150EC900CBDB48 /* Assets.xcassets */; };
 		D891832E2A150EC900CBDB48 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D891832C2A150EC900CBDB48 /* LaunchScreen.storyboard */; };
+		D89183362A151A7900CBDB48 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D89183352A151A7900CBDB48 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		D891832A2A150EC900CBDB48 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D891832D2A150EC900CBDB48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D891832F2A150EC900CBDB48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D89183352A151A7900CBDB48 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				D891832C2A150EC900CBDB48 /* LaunchScreen.storyboard */,
 				D891832F2A150EC900CBDB48 /* Info.plist */,
 				D89183272A150EC500CBDB48 /* MedinaColeccionDeJuegos.xcdatamodeld */,
+				D89183352A151A7900CBDB48 /* JuegosViewController.swift */,
 			);
 			path = MedinaColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D89183362A151A7900CBDB48 /* JuegosViewController.swift in Sources */,
 				D89183232A150EC500CBDB48 /* ViewController.swift in Sources */,
 				D891831F2A150EC500CBDB48 /* AppDelegate.swift in Sources */,
 				D89183212A150EC500CBDB48 /* SceneDelegate.swift in Sources */,
